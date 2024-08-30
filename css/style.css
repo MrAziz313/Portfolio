@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+/* .head-img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border:2px solid rgba(red, green, blue, alpha);
+    
+} */
+/* img{
+    height: 100px !important;
+} */
+ @media screen and (min-width:0px) {
+    .head-right{
+        justify-content: center;
+    }
+ }
+
+ @media screen and (min-width:768px) {
+    
+    .head-right{
+        justify-content: end;
+    }
+ }
